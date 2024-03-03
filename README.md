@@ -28,6 +28,12 @@ AtliQ Grands, a prominent player in the luxury/business hotels sector in India, 
 - dim_hotels – This table contains data like property id, property name, category, and cities.
 - dim_rooms – This table includes room_id and room class.
 - fact_aggregated_bookings – This is a fact tale that contains property id, check-in date, room category, successful bookings, and capacity.
-- fact_bookings – This is another fact table that contains extra data like financials. The data are booking id, property id, booking date, check-out date, check-in date, number of guests.
+- fact_bookings – This is another fact table that contains extra data like financials. The data are booking id, property id, booking date, check-out date, check-in date, and number of guests.
 
 ### Depth overview of the above table using  [Metadata File](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/blob/main/meta_data_hospitality.txt)
+
+### Data Model:
+It is a star schema where the fact table/tables are in the center and they are surrounded by dimension tables.
+
+![image](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/assets/117892039/f8ac83d5-35e5-4004-9910-f4c95d7676b4)
+
