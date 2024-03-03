@@ -24,8 +24,8 @@ AtliQ Grands, a prominent player in the luxury/business hotels sector in India, 
 
 ### Data Source:
 This [file](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/tree/main/Dataset) contains all the meta information regarding the columns described in the CSV files.
-- dim_date
-- dim_hotels
-- dim_rooms
-- fact_bookings
-- fact_aggregated_bookings
+- dim_date – This table contains dates, week numbers, and day type (weekend and weekday).
+- dim_hotels – This table contains data like property id, property name, category, and cities.
+- dim_rooms – This table includes room_id and room class.
+- fact_aggregated_bookings – This is a fact tale that contains property id, check-in date, room category, successful bookings, and capacity.
+- fact_bookings – This is another fact table that contains extra data like financials. The data are booking id, property id, booking date, check-out date, check-in date, number of guests.
