@@ -1,8 +1,8 @@
 # AtliQ Grand Insights [SQL | Power BI |]
 ---
 ## SQL Data Exploration & Power BI Dashboard
-### Domain:  Hospitality      
-### Function: Revenue
+**Domain:  Hospitality**      
+**Function: Revenue**
 
 ### Project Overview:
 --- 
