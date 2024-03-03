@@ -15,3 +15,9 @@ AtliQ Grands, a prominent player in the luxury/business hotels sector in India, 
 - Identify key metrics to gauge the performance and revenue potential of AtliQ Grands' hotels.
 - Develop a comprehensive dashboard that visualizes critical metrics for easy interpretation by stakeholders.
 - Generate actionable insights from the data to guide strategic decision-making and revenue optimization efforts.
+
+#### Insights:
+
+❇️ SQL - [Ad-Hoc Insights]()
+
+❇️ Novypro Power BI Dashboard - [Live Report Link](https://www.novypro.com/project/atliq-hospitality-analysis-24)
