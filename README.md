@@ -110,7 +110,7 @@ I have created 3 different report views in this report which serve the need of v
 
 ### Learned things from this Project :
 ---
--- Learned [Dax Formula]() for the Hospitality  Domain.
+-- Learned [Dax Formula](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/blob/main/DAX%20Formulas%20Learned.pdf) for the Hospitality  Domain.
 - Learned to build a new visual (Calendar visual) using a matrix table, which can be utilized for different purposes of analysis.
 - Learn, how to use bookmarks and selection for different purposes. Page navigation and a clear filter button in the dashboard were achieved using bookmarks and selection.
 - Tried using the color palette and sticking with those colors throughout the dashboard.
