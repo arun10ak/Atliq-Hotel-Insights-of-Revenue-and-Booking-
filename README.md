@@ -39,3 +39,27 @@ Data modeling is a connection between different tables using a common table betw
 
 ![image](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/assets/117892039/f8ac83d5-35e5-4004-9910-f4c95d7676b4)
 
+### Key Insights Derived from The Report:
+---
+#### For Overall Report :
+1. Overall Ratings are 3.62 (Out of 5) and those are consistent.
+2. In the 2nd and 3rd week of all months the drop in no. booking has been noticed. It COULD HAVE BEEN COMMON across the industry.
+*Suggestion:* Travellers prefer to travel either in the month starting or towards the end of the month. So AtliQ Grand's marketing team should design special offers to cope with the md-month fall.
+3. Cancellation Rates don't seem to be the reason for the sudden drop in revenue since it has been consistent from 24-25% throughout all months.
+*Suggestion:* Atliq should also try to improve upon it in general to achieve better utilization of capacity.
+4. A significant negative value of variance can be noticed in July 2022.A notable -11.61% drop in Revenue is majorly contributed by,
+- 12.14% drop in Total Bookings
+- 14.15% drop in Occupancy %
+- 62.21% of unutilized Capacity, which is 11.13% higher than the past month.
+  
+#### For Booking and Revenue Report:
+1. MUMBAI is the top city throughout all months in booking as well as revenue.
+2. Bangalore is the city with the lowest occupancy rate throughout all months, still it's the second-highest city contributing to Revenue.
+3. Delhi is the city that has the lowest performance overall.
+4. Atliq Palace and Atliq Exotica are the highest contributing hotels.
+5. Business Hotel contributing less to the revenue as well as their Avg. Rating is a matter of concern, especially Atliq Seasons.
+6. Elite is the winning horse with the highest contribution to revenue, and the 2nd highest occupancy. However, little down can be seen in its cancellation rate in the last two months
+7. Presidential is 2nd lowest in Revenue contribution. still, they seem to be maintaining higher occupancy% throughout all months.
+8. Make my trip is better channel contributing around 19-20% to the revenue.
+9. However major revenue around 40% is coming from unrecognized sources which need to be identified for better marketing efforts.
+
