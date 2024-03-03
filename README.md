@@ -24,6 +24,7 @@ AtliQ Grands, a prominent player in the luxury/business hotels sector in India, 
 
 ### Data Source:
 We used CSV file. 
+This [file]() contains all the meta information regarding the columns described in the CSV files.
 - dim_date
 - dim_hotels
 - dim_rooms
