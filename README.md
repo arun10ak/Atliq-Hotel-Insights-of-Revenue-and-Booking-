@@ -42,6 +42,8 @@ AtliQ Grands, a prominent player in the luxury/business hotels sector in India, 
 - Power BI Service
 
 ### Data Transformation:
+---
+
 - Created calculated columns in the *dim_date table* .
 - Derived week number from date column using DAX formula: week_no = WEEKNUM(dim_dates[date])
 - Derived day type from date column using DAX formula :
@@ -105,4 +107,13 @@ I have created 3 different report views in this report which serve the need of v
 ✔ Booking Report
 
   ![image](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/assets/117892039/4cd401ee-edfa-4312-a564-76e5f48a1261)
+
+### Learned things from this Project :
+---
+-- Learned [Dax Formula]() for the Hospitality  Domain.
+- Learned to build a new visual (Calendar visual) using a matrix table, which can be utilized for different purposes of analysis.
+- Learn, how to use bookmarks and selection for different purposes. Page navigation and a clear filter button in the dashboard were achieved using bookmarks and selection.
+- Tried using the color palette and sticking with those colors throughout the dashboard.
+
+# Thank You...!!!
 
