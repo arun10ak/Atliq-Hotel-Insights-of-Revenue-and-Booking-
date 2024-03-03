@@ -22,8 +22,8 @@ AtliQ Grands, a prominent player in the luxury/business hotels sector in India, 
 
 ❇️ Novypro Power BI Dashboard - [Live Report Link](https://www.novypro.com/project/atliq-hospitality-analysis-24)
 
-### Data Source:
-This [file](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/tree/main/Dataset) contains all the meta information regarding the columns described in the CSV files.
+### Data Source: [Dataset](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/tree/main/Dataset)
+
 - dim_date – This table contains dates, week numbers, and day type (weekend and weekday).
 - dim_hotels – This table contains data like property id, property name, category, and cities.
 - dim_rooms – This table includes room_id and room class.
