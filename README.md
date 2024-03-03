@@ -1,12 +1,11 @@
 # AtliQ Grand Insights [SQL | Power BI |]
 ---
 ## SQL Data Exploration & Power BI Dashboard
-**Domain:  Hospitality**      
-**Function: Revenue**
-
 ### Project Overview:
 --- 
 #### Title: Enhancing Revenue Management for AtliQ Grands
+**Domain:  Hospitality**      
+**Function: Revenue**
 
 #### Introduction:
 AtliQ Grands, a prominent player in the luxury/business hotels sector in India, is facing challenges in maintaining its market share and revenue due to ineffective decision-making processes within its management. To address this issue, the revenue management team has initiated a project to leverage Business and Data Intelligence to identify gaps and make informed decisions. The key objective is to revitalize revenue generation strategies and regain competitiveness in the market.
