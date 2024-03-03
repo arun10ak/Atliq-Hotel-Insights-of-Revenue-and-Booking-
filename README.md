@@ -94,23 +94,23 @@ Data modeling is a connection between different tables using a common table betw
 
 ### Building the Dynamic Dashboard:
 ---
-I have created 3 different report views in this report which serve the need of various stakeholders. Let’s have a look at each of them.
-✔ Overall Report
+I have created 3 different report views in this report which serve the needs of various stakeholders. Let’s have a look at each of them.
+✔ **Overall Report**
 
 ![image](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/assets/117892039/b0c85f3b-dc25-40d6-bbc5-c07226ae78b5)
 
-✔ Revenue Report
+✔ **Revenue Report**
 
 ![image](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/assets/117892039/43484bdd-a948-450d-902f-cf94bc4a2783)
 
 
-✔ Booking Report
+✔ **Booking Report**
 
   ![image](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/assets/117892039/4cd401ee-edfa-4312-a564-76e5f48a1261)
 
 ### Learned things from this Project :
 ---
--- Learned [Dax Formula](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/blob/main/DAX%20Formulas%20Learned.pdf) for the Hospitality  Domain.
+- Learned [Dax Formula](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/blob/main/DAX%20Formulas%20Learned.pdf) for the Hospitality  Domain.
 - Learned to build a new visual (Calendar visual) using a matrix table, which can be utilized for different purposes of analysis.
 - Learn, how to use bookmarks and selection for different purposes. Page navigation and a clear filter button in the dashboard were achieved using bookmarks and selection.
 - Tried using the color palette and sticking with those colors throughout the dashboard.
