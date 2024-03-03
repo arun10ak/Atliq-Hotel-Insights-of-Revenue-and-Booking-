@@ -21,3 +21,11 @@ AtliQ Grands, a prominent player in the luxury/business hotels sector in India, 
 ❇️ SQL - [Ad-Hoc Insights]()
 
 ❇️ Novypro Power BI Dashboard - [Live Report Link](https://www.novypro.com/project/atliq-hospitality-analysis-24)
+
+### Data Source:
+We used CSV file. 
+     - dim_date
+     - dim_hotels
+     - dim_rooms
+     - fact_bookings
+     - fact_aggregated_bookings
