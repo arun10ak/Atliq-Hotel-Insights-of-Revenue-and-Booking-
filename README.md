@@ -18,7 +18,7 @@ AtliQ Grands, a prominent player in the luxury/business hotels sector in India, 
 
 #### Insights:
 
-❇️ SQL - [Ad-Hoc Insights]()
+❇️ SQL - [Ad-Hoc Insights](https://github.com/arun10ak/Power-BI-Atliq-Hotel-Insights-of-Revenue-and-Booking/tree/main/SQL%20Analysis)
 
 ❇️ Novypro Power BI Dashboard - [Live Report Link](https://www.novypro.com/project/atliq-hospitality-analysis-24)
 
